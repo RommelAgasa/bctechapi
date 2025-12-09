@@ -165,3 +165,4 @@ C:\Users\romme\Documents\bc-tech-assessment\bctechapi\obj\Debug\net10.0\refint\b
 C:\Users\romme\Documents\bc-tech-assessment\bctechapi\obj\Debug\net10.0\bctechapi.pdb
 C:\Users\romme\Documents\bc-tech-assessment\bctechapi\obj\Debug\net10.0\bctechapi.genruntimeconfig.cache
 C:\Users\romme\Documents\bc-tech-assessment\bctechapi\obj\Debug\net10.0\ref\bctechapi.dll
+C:\Users\romme\Documents\bc-tech-assessment\bctechapi\obj\Debug\net10.0\bctechapi.sourcelink.json
